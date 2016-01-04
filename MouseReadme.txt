@@ -8,6 +8,6 @@ Raphaël's work is truly marvelous, and Ma and Lin did a nice job with the mouse 
 
 Because most of this code is coming from other projects with GNU GPL, I am letting my modifications inherit the same protection. A copy of this license is included in the source. 
 
-As to the use of this code in Arduino, #include "DigiMouse.h" as you would any other library. See the included sample for use of the functions. 
+As to the use of this code in Arduino, #include "TeenyMouse.h" as you would any other library. See the included sample for use of the functions. 
 
 My name is Sean Murphy, and you can find me many places on the internet by the handle duckythescientist (including the Digispark forums). 
