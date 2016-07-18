@@ -1,4 +1,4 @@
-TeenyMouse KEYWORD1
+CocoMouse KEYWORD1
 update KEYWORD2
 moveX KEYWORD2
 moveY KEYWORD2
